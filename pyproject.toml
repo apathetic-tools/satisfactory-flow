@@ -2,7 +2,7 @@
 
 [project]
 name = "satisfactory-flow"
-version = "0.0.1"
+version = "0.1.0"
 description = "Automate your automations. Production flow calculations for Satisfactory."
 authors = [
     { name = "Apathetic Tools" }

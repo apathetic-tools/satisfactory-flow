@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v0.1.0 (2025-12-18)
+
+### Features
+
+- Add data loading utilities with user override support
+  ([`9cd7f2a`](https://github.com/apathetic-tools/satisfactory-flow/commit/9cd7f2af33e81472d3eaeb962f92065cac3af449))
+
+
 ## v0.0.1 (2025-12-18)
 
 ### Bug Fixes
