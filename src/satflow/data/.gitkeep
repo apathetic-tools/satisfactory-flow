@@ -1,0 +1,4 @@
+# This directory contains default data files for the CLI.
+# Users can override these files by placing them in their user data directory.
+# See satflow.data.get_user_data_dir() for the location.
+
