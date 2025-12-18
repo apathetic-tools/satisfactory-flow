@@ -1,4 +1,4 @@
-# SatFlow 🔁 
+# Satisfactory Flow (satflow) 🔁 
 
 
 [![CI](https://github.com/apathetic-tools/satflow/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/goldilocks/satflow/actions/workflows/ci.yml)

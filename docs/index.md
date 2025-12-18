@@ -1,10 +1,10 @@
 ---
 layout: default
-title: SatFlow
+title: Satisfactory Flow (satflow) 🔁 
 description: Automate your automations. Production flow calculations for Satisfactory.
 ---
 
-# SatFlow 🔁
+# Satisfactory Flow (satflow) 🔁 
 
 **Automate your automations.**
 
